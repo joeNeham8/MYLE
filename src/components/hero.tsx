@@ -16,7 +16,7 @@ const hero: React.FC = () => {
       <div className="hero-image">
         <img src="#" alt="MYLE Dashboard" />
       </div>
-    </section>
+      </section>
   );
 };
 
