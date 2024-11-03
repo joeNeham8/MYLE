@@ -1,0 +1,34 @@
+
+#how-it-works {
+    padding: 2rem 1rem;
+    background-color: #f3f3f3;
+    text-align: center;
+    margin-bottom: .5rem;
+  }
+  
+  #how-it-works h2 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 1.5rem;
+    font-weight: bold;
+  }
+  
+  /* Ordered List Styling */
+  #how-it-works ol {
+    list-style-type: decimal;
+    margin: 1.5rem auto;
+    padding: 0;
+    max-width: 700px;
+    text-align: left;
+  }
+  
+  #how-it-works ol li {
+    font-size: 1.2rem;
+    color: #555;
+    margin: 1rem 0;
+    padding-left: 1.5rem;
+    line-height: 1.6;
+  }
+  
+
+  
