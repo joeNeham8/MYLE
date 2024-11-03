@@ -1,0 +1,42 @@
+#blockchain-rewards {
+     margin-bottom: 1rem;
+    padding: 2rem 1rem;
+    background-color: #f0f4f8;
+    text-align: center;
+  }
+  
+  #blockchain-rewards h2 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 2rem;
+    font-weight: bold;
+  }
+  
+  /* Styling for Blockchain Feature Items */
+  .blockchain-feature {
+    background-color: white;
+    border: 1px solid #e0e0e0;
+    padding: 1.5rem;
+    margin: 1rem auto;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+  }
+  
+  .blockchain-feature:hover {
+    transform: translateY(-5px);
+  }
+  
+  .blockchain-feature h3 {
+    font-size: 1.8rem;
+    color: #ff9800;
+    margin-bottom: 0.5rem;
+  }
+  
+  .blockchain-feature p {
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
+  
