@@ -11,7 +11,7 @@ const Testimonials: React.FC = () => {
       </blockquote>
       <blockquote>
         <p>" only self promotion for now $$"</p>
-        <cite>— baap ke baap</cite>
+        <cite>— baap ka baap</cite>
       </blockquote>
     </section>
   );
