@@ -1,10 +1,17 @@
-.footer {
-    color: rgb(215, 13, 13);
+
+footer {
+    padding: 1rem;
+    background-color: #333;
     text-align: center;
-    padding: 10px;
-    position: fixed;
-    left: 0;
+    color: white;
+    font-size: 0.9rem;
+    position: relative;
     bottom: 0;
     width: 100%;
-    z-index: 100;
-}
+  }
+  
+  footer p {
+    color: #aaa;
+  }
+  
+ 
